@@ -6,7 +6,7 @@ author:
   location: Rio de Janeiro - Brazil
   description: "19 years old, studying computer science"  
 description: only my simple vision of casper theme
-baseurl: "jekyll-vision-casper-theme"
+baseurl: "/jekyll-vision-casper-theme"
 url: "http://hugocarreira.github.io/jekyll-vision-casper-theme"
 twitter_username: hugocolombo23
 github_username:  hugocarreira
