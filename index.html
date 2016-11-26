@@ -12,7 +12,7 @@ layout: default
         <p>{{ post.description }}</p>
       </section>
       <footer class="post-meta">
-        by <a href="/about">{{ site.author.name }}</a> <img class="author-thumb" src="{{ site.author.picture }}" alt="{{ site.author.name }}">
+        by <a href="{{ site.github_url }}about">{{ site.author.name }}</a> <img class="author-thumb" src="{{ site.author.picture }}" alt="{{ site.author.name }}">
         <time class="post-date" datetime="{{ post.date | date: "%-Y-%m-%d" }}">{{ post.date | date: "%d %b %Y" }}</time>
       </footer>
     </article>
