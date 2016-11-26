@@ -7,10 +7,10 @@ author:
   description: "19 years old, studying computer science"  
 description: only my simple vision of casper theme
 baseurl: "/"
-url: "http://hugocarreira.github.io/jekyll-vision-casper-theme"
+url: https://hugocarreira.github.io/jekyll-vision-casper-theme
 twitter_username: hugocolombo23
 github_username:  hugocarreira
-github_url: "http://hugocarreira.github.io/jekyll-vision-casper-theme/"
+github_url: https://hugocarreira.github.io/jekyll-vision-casper-theme/
 
 # Build settings
 permalink: :title
