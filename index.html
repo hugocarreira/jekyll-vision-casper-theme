@@ -6,7 +6,7 @@ layout: default
   {% for post in site.posts %}
     <article class="post">
       <header class="post-header">
-        <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <h2 class="post-title"><a href="{{ site.github_url }}{{ post.url }}">{{ post.title }}</a></h2>
       </header>
       <section class="post-excerpt">
         <p>{{ post.description }}</p>
