@@ -3,6 +3,7 @@
 
 ## TODO
 - [ ] - Logo
+- [ ] - Navbar
 - [ ] - Menu
 
 ## Preview:
